@@ -1,0 +1,15 @@
+! ############################
+! ##### spatial_corr.inp #####
+! ############################
+! Input file for spatial_correlation program
+! Make sure there are no white spaces in the definitions
+! e.g., 'output_var=hs', and not 'output_var = hs'
+!
+output_var=THE_VAR
+start_year=1981
+end_year=2020
+
+the_lon=THE_LON
+the_lat=THE_LAT
+
+max_dist=100.0 ! It will select the nodes that are within this distance for calculating correlations

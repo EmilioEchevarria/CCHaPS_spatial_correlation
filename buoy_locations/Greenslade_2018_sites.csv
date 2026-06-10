@@ -1,0 +1,35 @@
+sitename,latitude,longitude,depth,buoy_type,operator
+Albatross Bay,-12.68,141.68,10,Directional Waverider,QLD DSITI
+Cairns,-16.73,145.72,15,Directional Waverider,QLD DSITI
+Townsville,-19.17,147.05,18,Directional Waverider,QLD DSITI
+Abbot Point,-19.87,148.1,14,Directional Waverider,QLD DSITI
+Mackay,-21.03,149.55,29,Directional Waverider,QLD DSITI
+Hay Point,-21.27,149.31,10,Directional Waverider,QLD DSITI
+Emu Park,-23.3,151.07,22,Directional Waverider,QLD DSITI
+Gladstone,-23.9,151.5,13,Directional Waverider,QLD DSITI
+Bundaberg,-24.67,152.5,18,Waverider,QLD DSITI
+Mooloolaba,-26.57,153.18,32,Directional Waverider,QLD DSITI
+Caloundra,-26.85,153.16,12,Directional Waverider,QLD DSITI
+North Moreton Bay,-26.9,153.28,35,Directional Waverider,QLD DSITI
+Brisbane,-27.5,153.63,73,Directional Waverider,QLD DSITI
+Gold Coast,-27.97,153.44,18,Directional Waverider,QLD DSITI
+Tweed Heads,-28.18,153.58,25,Directional Waverider,QLD DSITI
+Byron Bay,-28.87,153.69,62,Directional Waverider,OEH/MHL
+Coffs Harbour,-30.36,153.27,72,Directional Waverider,OEH/MHL
+Crowdy Head,-31.81,152.86,79,Directional Waverider,OEH/MHL
+Sydney,-33.77,151.41,92,Directional Waverider,OEH/MHL
+Port Kembla,-34.47,151.02,80,Directional Waverider,OEH/MHL
+Batemans Bay,-35.71,150.34,62,Directional Waverider,OEH/MHL
+Eden,-37.26,150.19,100,Directional Waverider,OEH/MHL
+Cape Sorell,-42.08,145.01,100,Waverider,BOM
+Cape Du Couedic,-36.07,136.62,80,Waverider,BOM
+Esperance,-34.0,121.9,52,Directional Waverider,WA DOT
+Albany,-35.2,117.73,60,Directional Waverider,WA DOT
+Cape Naturaliste,-33.36,114.78,50,Directional Waverider,WA DOT
+Mandurah,-32.45,115.57,30,Directional Waverider,WA DOT
+Rottnest Island,-32.11,115.4,48,Directional Waverider,WA DOT
+Jurien Bay,-30.29,114.91,42,Directional Waverider,WA DOT
+Ashburton,-21.54,115.03,11,Directional Waverider,PPA
+North Rankin,-19.59,116.14,125,Waverider,WOOD
+Dampier,-20.44,116.73,15,Directional Waverider,PPA
+Port Hedland,-20.01,118.44,17,Directional Waverider,PPA

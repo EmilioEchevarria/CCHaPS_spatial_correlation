@@ -1,0 +1,63 @@
+State,Site Name,Type,Latitude,Longitude,Depth
+WA,Coral Bay,National,-23.1545,113.7369,27
+WA,Shark Bay,National,-25.4945,113.1018,19
+WA,Hillarys,National,-31.8513,115.6465,28
+WA,Ocean Beach,National,-35.049,117.3638,40
+WA,Torbay West,National,-35.0687,117.7699,30
+WA,Tantabiddi,Co-invest,-21.8936,113.9283,37
+WA,Exmouth Gulf South,Co-invest,-22.1684,114.3382,7
+WA,Exmouth Gulf North,Co-invest,-21.8002,114.2661,22
+WA,Cygnet Bay,Co-invest,-16.5028,123.0341,11
+WA,Cable Beach,Co-invest,-17.9005,122.1332,16
+WA,Jurien Bay Inshore,Co-invest,-30.315,114.9613,26
+WA,Jurien Bay Offshore,Co-invest,-30.3156,114.9226,40
+WA,Dongara Inshore,Co-invest,-29.186,114.8625,19
+WA,Dongara Offshore,Co-invest,-29.198,114.8318,22
+WA,Floreat,Co-invest,-31.9282,115.6812,20
+SA,Brighton,National,-35.025,138.45,20
+SA,North Kangaroo Island,National,-35.57,136.9255,46
+SA,Robe,National,-37.1443,139.6521,29
+SA,Ceduna,National,-32.5056,133.1734,20
+SA,West Beach,Co-invest,-34.9524,138.4833,5
+SA,Semaphore,Co-invest,-34.8529,138.3518,21
+SA,North Haven,Co-invest,-34.798,138.4811,7
+SA,Spilsby South,Co-invest,-34.81,136.43,40
+SA,Black Point,Co-invest,-34.68,138.0,16
+SA,Robe Guichen Bay,Co-invest,-37.1484,139.7701,9
+SA,Victor Harbor Offshore,Co-invest,-35.6095,138.6323,30
+SA,Victor Harbor Inshore,Co-invest,-35.581,138.6189,12
+SA,Boston Island,Co-invest,-34.6557,136.1168,24
+SA,Cape Jervis,Co-invest,-35.6065,138.0853,15
+VIC,Cape Bridgewater,National,-38.3599,141.2739,65
+VIC,Apollo Bay,National,-38.7538,143.7228,30
+VIC,Central,National,-38.0622,144.8672,23
+VIC,Wilsons Promontory,National,-39.5379,146.4834,74
+VIC,Bob,National,-38.6256,142.3831,64
+VIC,Dutton Way,Co-invest,-38.3205,141.6573,18
+VIC,Port Fairy,Co-invest,-38.3821,142.2872,26
+VIC,Sandringham,Co-invest,-37.9794,144.9932,13
+VIC,Rosebud,Co-invest,-38.3021,144.8724,16
+VIC,Indented Head,Co-invest,-38.1361,144.7531,15
+VIC,Mt Eliza,Co-invest,-38.163,145.0543,17
+VIC,Werribee,Co-invest,-37.9855,144.7752,11
+VIC,Inverloch,Co-invest,-38.7574,145.7664,49
+VIC,Ticonderoga Bay,Co-invest,-38.3093,144.6927,nan
+VIC,Weeroona Bay,Co-invest,-38.3158,144.7123,nan
+VIC,Shelley Beach,Co-invest,-38.3200,144.7323,nan
+VIC,Kirk Point,proposed,-38.052517,144.577633,nan
+VIC,Clifton Springs,proposed,-38.136150,144.546417,nan
+TAS,Storm Bay,National,-43.2308,147.4589,43
+NSW,Wooli,National,-29.8574,153.3139,29
+NSW,Collaroy Narrabeen,National,-33.7265,151.3068,15
+NSW,Bengello,National,-35.88,150.1612,14
+NSW,Tathra,National,-36.7083,150.001,30
+NSW,Cape Byron,Co-invest,-28.6274,153.6279,12
+NSW,Wooli Beach,Co-invest,-29.8692,153.2761,13
+NSW,Boambee Beach,Co-invest,-30.3356,153.1248,13
+NSW,Crowdy Head,Co-invest,-31.8492,152.7555,13
+NSW,Stockton,Co-invest,-32.9021,151.7987,13
+NSW,Port Hacking,Co-invest,-34.0787,151.1539,6
+QLD,Karumba,National,-17.3547,140.7281,7
+QLD,Mission Beach,National,-17.9852,146.204,22
+NT,Fenton Patches,National,-12.1704,130.7348,26
+NT,Maningrida,National,-11.955,134.3094,14
